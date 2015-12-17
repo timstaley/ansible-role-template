@@ -4,6 +4,11 @@ Ansible Role Template
 A template role, adding Vagrant-testing support to the default Ansible-role
 skeleton.
 
+Ansible is a great tool, and trying things out with a virtual-machine is a
+great way to learn, try things out, and test changes. But if you're trying
+to learn Ansible and Vagrant/Virtualbox all at once, configuring a test-setup
+just right can be a steep learning curve. This template demonstrates how
+to set-up Vagrant to test your new Ansible role.
 
 
 Notes
