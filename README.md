@@ -70,7 +70,7 @@ to forcibly update old copies.
 
 Note that *[ansible.cfg](vagrant/ansible.cfg)* is configured such that 
 roles installed via Ansible Galaxy will be installed under 
-*vagrant/.galaxy_roles*.
+*vagrant/galaxy_roles*.
 
 When documenting a role, you should either specify expected 
 pre-requisites (e.g. git) in the README, or if your dependencies 
